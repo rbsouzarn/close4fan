@@ -1,31 +1,34 @@
 {
-  "posts": [
+  "conteudos": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "categoria": "FITNESS",
+      "descricao":"Saiba como eu faço para mater um corpo sarado e ainda tomar a cervejinha do final de semana",
+      "imagemGrande": "https://www.girlswithmuscle.com/images/full/931288.jpg",
+      "titulo": "Seu corpo sarado sempre",
+      "linkvideo":"https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+      "likes": "310",
+      "comments": "89",
+      "views": "1598",
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "categoria": "Saúde",
+      "descricao":"A importância da hidratação dos cabelos para que tenham sempre a melhor aparência",
+      "imagemGrande": "https://hilnethcorreia.com.br/wp-content/uploads/2019/04/Suzana-Schott.jpg",
+      "titulo": "O segredo dos cabelos brilhosos",
+      "linkvideo":"https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+      "likes": "310",
+      "comments": "89",
+      "views": "1598",
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "categoria": "Make",
+      "descricao":"O toque dos cílios certos para cada ocasião e como isso afeta a forma como te olham",
+      "imagemGrande": "https://pbs.twimg.com/profile_images/531159846113259520/MTkvaF00.jpeg",
+      "titulo": "Por que cílios falam muito?",
+      "linkvideo":"https://file-examples.com/wp-content/uploads/2017/04/file_example_MP4_480_1_5MG.mp4",
+      "likes": "310",
+      "comments": "89",
+      "views": "1598",
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
