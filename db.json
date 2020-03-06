@@ -33,10 +33,10 @@
       "comments": "89",
       "views": "1598"
     }
-  ]
+  ],
   "comentarios": [
 	{
-		"tipo":"C"
+		"tipo":"C",
 		"id":"1",
 		"posicao":"1",
 		"fan":
@@ -52,7 +52,7 @@
 		"curtidas":12
 	},
 	{
-		"tipo":"R"
+		"tipo":"R",
 		"id":"2",
 		"posicao":"2",
 		"fan":
@@ -68,7 +68,7 @@
 		"curtidas":3
 	},
 	{
-		"tipo":"R"
+		"tipo":"R",
 		"id":"3",
 		"posicao":"3",
 		"fan":
@@ -84,7 +84,7 @@
 		"curtidas":1
 	},
 	{
-		"tipo":"C"
+		"tipo":"C",
 		"id":"4",
 		"posicao":"4",
 		"fan":
