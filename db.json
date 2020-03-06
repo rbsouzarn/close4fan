@@ -44,12 +44,12 @@
 			"id":"1",
 			"usuario":"rbsouzarn",
 			"avatar":"https://www.w3schools.com/w3images/avatar2.png",
-			"pontos":50,
+			"pontos":"50",
 			"posicaoranking":"1"
 		},
 		"texto":"Que vídeo legal ... vou aprender muito com ele :)",
 		"tempo":"1d",
-		"curtidas":12
+		"curtidas":"12"
 	},
 	{
 		"tipo":"R",
@@ -60,12 +60,12 @@
 			"id":"1",
 			"usuario":"clauduacfg",
 			"avatar":"https://ic-english.eu/wp-content/uploads/2019/01/img_avatar2.png",
-			"pontos":50,
+			"pontos":"50",
 			"posicaoranking":"2"
 		},
 		"texto":"Também ache massa!!!",
 		"tempo":"1d",
-		"curtidas":3
+		"curtidas":"3"
 	},
 	{
 		"tipo":"R",
@@ -76,12 +76,12 @@
 			"id":"1",
 			"usuario":"glebeduarte",
 			"avatar":"https://launchwebsitedesign.com/wp-content/uploads/2017/09/josh-d-avatar.jpg",
-			"pontos":50,
+			"pontos":"50",
 			"posicaoranking":"3"
 		},
 		"texto":"Voto com os relatores.",
 		"tempo":"1d",
-		"curtidas":1
+		"curtidas":"1"
 	},
 	{
 		"tipo":"C",
@@ -92,12 +92,12 @@
 			"id":"1",
 			"usuario":"fabão_35",
 			"avatar":"https://www.zoomyourtraffic.com/wp-content/uploads/avatar-4.png",
-			"pontos":50,
+			"pontos":"50",
 			"posicaoranking":"4"
 		},
 		"texto":"Que vídeo legal ... vou aprender muito com ele :)",
 		"tempo":"2w",
-		"curtidas":12
+		"curtidas":"12"
 	}
   ]
 }
