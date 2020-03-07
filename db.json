@@ -49,7 +49,7 @@
 		},
 		"texto":"Que vídeo legal ... vou aprender muito com ele :)",
 		"tempo":"1d",
-		"curtidas":"12"
+		"curtidas":"12 curtidas"
 	},
 	{
 		"tipo":"R",
@@ -65,7 +65,7 @@
 		},
 		"texto":"Também ache massa!!!",
 		"tempo":"1d",
-		"curtidas":"3"
+		"curtidas":"3 curtidas"
 	},
 	{
 		"tipo":"R",
@@ -81,7 +81,7 @@
 		},
 		"texto":"Voto com os relatores.",
 		"tempo":"1d",
-		"curtidas":"1"
+		"curtidas":"1 curtida"
 	},
 	{
 		"tipo":"C",
@@ -97,7 +97,7 @@
 		},
 		"texto":"Que vídeo legal ... vou aprender muito com ele 2 huahauahuahauahuahauauahauahuahauahauh ... só repetindo",
 		"tempo":"2w",
-		"curtidas":"12"
+		"curtidas":"12 curtidas"
 	}
   ]
 }
